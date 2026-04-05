@@ -4,10 +4,10 @@
 ### Hi there, I'm **Aditya Kumar** 👋
 **Full Stack Developer** · Building things that live on the internet
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adibitz.com-black?style=flat-square&logo=vercel)](https://adibitz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aaditya--kumar--anand-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaditya-kumar-anand/)
-[![Twitter](https://img.shields.io/badge/Twitter-@theadibitz-1DA1F2?style=flat-square&logo=twitter)](https://x.com/theadibitz/)
-[![GitHub](https://img.shields.io/badge/GitHub-adibitz-181717?style=flat-square&logo=github)](https://github.com/adibitz)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adibitz.com-black?style=for-the-badge)](https://adibitz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaditya-kumar-anand/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/theadibitz/)
+
 
 </div>
 
