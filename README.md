@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### Hi there, I'm **Aditya Kumar** 👋
+# Hi there, I'm **Aditya Kumar** 👋
 **Full Stack Developer** · Building things that live on the internet
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adibitz.com-black?style=for-the-badge)](https://adibitz.com)
