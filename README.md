@@ -103,17 +103,6 @@ I'm a passionate **Full Stack Developer** who loves building performant, scalabl
 
 ---
 
-## 📚 Currently Learning
-
-```
-System Design      ████████████░░░░  75%
-High Level Design  ██████████░░░░░░  65%
-Low Level Design   ████████░░░░░░░░  55%
-Rust               ██████░░░░░░░░░░  45%
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
