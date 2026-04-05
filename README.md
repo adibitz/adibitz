@@ -1,13 +1,5 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
-```
 
 ### Hi there, I'm **Aditya Kumar** 👋
 **Full Stack Developer** · Building things that live on the internet
@@ -23,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building performant, scalable web applications from the ground up. I enjoy working across the entire stack — from pixel-perfect UIs to architecting robust backends and cloud infrastructure. Currently deep-diving into **system design** and building cool side projects.
+I'm a passionate **Full Stack Developer** who loves building performant, scalable web applications from the ground up. I enjoy working across the entire stack — from pixel-perfect UIs to architecting robust backends and cloud infrastructure. Currently deep-diving into **system design** and building products that make a real difference.
 
-- 🚀 Currently working on **[Voxizo](https://voxizo.com)** — a personal project with a sleek landing page
+- 🔨 Currently building **Rivme** — a free AI-powered resume creator for everyone
 - 🧠 Learning **Low Level Design**, **High Level Design**, and **System Design**
-- 🌍 Based in **Lucknow, India**
+- 🌍 Based in **Ayodhya, Uttar Pradesh, India**
 - 💬 Ask me about anything full stack — I love talking tech
 
 ---
@@ -80,11 +72,16 @@ I'm a passionate **Full Stack Developer** who loves building performant, scalabl
 
 ## 🚀 Projects
 
-| Project | Description | Link |
-|--------|------------|------|
-| **Voxizo** | A sleek, modern landing page | [voxizo.com](https://voxizo.com) |
-
-> More projects coming soon — stay tuned! ⚡
+| Project | Status | Link |
+|---------|--------|------|
+| **Rivme** | 🔨 Building — Free AI resume creator for everyone | Coming Soon |
+| **Voxizo** | ✅ Live | [voxizo.com](https://voxizo.com) |
+| **Hartmann Nutra** | ✅ Live | [hartmannutra.com](https://hartmannutra.com) |
+| **Soul Tattava** | ✅ Live | [soultattava.com](https://soultattava.com) |
+| **Apex Nexus** | ✅ Live | [apexnexuss.vercel.app](https://apexnexuss.vercel.app) |
+| **Dairy Smith** | ✅ Live | [dairysmith.com](https://dairysmith.com) |
+| **Roshni Studio** | 🚧 Under Development | [roshnistudio.vercel.app](https://roshnistudio.vercel.app) |
+| **adibitz.com** | 🚧 Under Development | [adibitz.com](https://adibitz.com) |
 
 ---
 
@@ -92,11 +89,15 @@ I'm a passionate **Full Stack Developer** who loves building performant, scalabl
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adibitz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=adibitz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adibitz&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adibitz&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibitz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=adibitz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -105,10 +106,10 @@ I'm a passionate **Full Stack Developer** who loves building performant, scalabl
 ## 📚 Currently Learning
 
 ```
-System Design  ████████████░░░░  75%
-High Level Design  ██████████░░░░  65%
-Low Level Design   ████████░░░░░░  55%
-Rust   ██████░░░░░░░░  45%
+System Design      ████████████░░░░  75%
+High Level Design  ██████████░░░░░░  65%
+Low Level Design   ████████░░░░░░░░  55%
+Rust               ██████░░░░░░░░░░  45%
 ```
 
 ---
@@ -119,7 +120,7 @@ Rust   ██████░░░░░░░░  45%
 
 I'm always open to interesting conversations, collaborations, and new opportunities.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_adibitz.com-black?style=for-the-badge)](https://adibitz.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adibitz.com-black?style=for-the-badge)](https://adibitz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaditya-kumar-anand/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/theadibitz/)
 
