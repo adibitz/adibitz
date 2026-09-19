@@ -40,11 +40,7 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Python, JavaScript, TypeScript, Rust">
-<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,vue,tailwind&theme=dark" alt="React, Next.js, Astro, Svelte, Vue, Tailwind CSS">
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI">
 <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" height="48" alt="Hono">
 
