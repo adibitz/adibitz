@@ -1,214 +1,86 @@
 <!-- Replace every GITHUB_USERNAME below with your actual GitHub username -->
 
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:EC4899,100:38BDF8&height=240&section=header&text=Aditya&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Systems%20Thinker&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Aditya header" />
-
-<a href="https://github.com/GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=50&lines=I+turn+ideas+into+fast%2C+scalable+products+%E2%9A%A1;6%2B+years+shipping+for+startups+%26+growing+brands;Co-building+Postessia+%E2%80%94+AI+that+writes+in+your+voice;Going+deep+on+system+design+%26+distributed+systems;Open+to+freelance+work+%26+collaborations+%F0%9F%A4%9D" alt="Typing animation" />
-</a>
-
-<br/><br/>
-
-<a href="https://adibitz.com"><img src="https://img.shields.io/badge/Portfolio-adibitz.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://postessia.in"><img src="https://img.shields.io/badge/Postessia-Live-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Postessia"></a>
-<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/X-@theadibitz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/experience-6%2B%20years-EC4899?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/open%20to-freelance-22C55E?style=flat-square" alt="Open to freelance" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:38BDF8&height=2" width="100%" alt="" />
-
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32" alt="👋" /> About Me
-</h2>
+<h1 align="center">Aditya</h1>
 
 <p align="center">
-  I turn ideas into <b>fast, scalable products people actually enjoy using</b>.<br/>
-  From pixel-perfect interfaces down to APIs, databases and cloud setup, I've spent 6+ years<br/>
-  building websites and web apps for startups and growing brands.
+  <b>Full Stack Developer</b><br/>
+  Building fast, scalable web products for startups and growing brands.
 </p>
 
-```js
-const aditya = {
-  role:        "Full Stack Developer",
-  experience:  "6+ years",
-  building:    "Postessia 🚀  // AI LinkedIn posts in your own voice",
-  learning:    ["Distributed systems", "Scaling", "System design"],
-  openTo:      ["Freelance work", "Collaborations"],
-  funFact:     "I ship faster with coffee ☕ and music 🎧",
-  currentGoal: "Build the next thing so it's ready to grow from day one",
-};
-```
+<p align="center">
+  <a href="https://adibitz.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://postessia.in">Postessia</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/theadibitz/">X</a>
+</p>
 
-<br/>
+---
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:EC4899,100:A855F7&height=2" width="100%" alt="" />
+## About
 
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="32" height="32" alt="🛠️" /> Tech Arsenal
-</h2>
+I turn ideas into fast, scalable products people actually enjoy using. For 6+ years I've built websites and web apps for startups and growing brands, covering everything from pixel-perfect interfaces to APIs, databases and cloud infrastructure.
 
-<div align="center">
+Right now I'm co-building [Postessia](https://postessia.in), an AI tool that writes LinkedIn posts in your own voice, and going deep on system design so that whatever I ship next is ready to grow from day one.
 
-<table>
-  <tr>
-    <td align="center" width="170"><b><sub>💻 LANGUAGES</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>🎨 FRONTEND</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,vue,tailwind&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>⚙️ BACKEND</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>🗄️ DATABASES</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,prisma&theme=dark" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>☁️ CLOUD & DEPLOY</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" alt="Cloud" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>🧰 TOOLS</sub></b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Tools" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b><sub>🤖 AI WORKFLOW</sub></b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-    </td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| **Currently building** | Postessia, an AI writing tool for LinkedIn |
+| **Currently learning** | Distributed systems, scaling and system design |
+| **Available for** | Freelance work and collaborations |
+| **Outside of work** | I ship faster with coffee and music |
 
-</div>
+---
 
-<br/>
+## Selected Work
 
-<!-- ═══════════════════════════ FEATURED WORK ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:38BDF8&height=2" width="100%" alt="" />
+| Project | Description | Status |
+|:--|:--|:--|
+| [**Postessia**](https://postessia.in) | AI-powered LinkedIn posts that sound like you, not like a robot. | Live |
+| [**Apex Nexus**](https://apexnexuss.com) | B2B acquisition infrastructure for growing teams. | Live |
+| [**Adibitz**](https://adibitz.com) | My freelance portfolio. | Live |
 
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32" alt="🚀" /> Featured Work
-</h2>
+---
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <h3>✨ Postessia</h3>
-      <sub>AI-powered LinkedIn posts that sound like you, not like a robot.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live">
-      <img src="https://img.shields.io/badge/AI-SaaS-EC4899?style=flat-square" alt="AI SaaS">
-      <br/><br/>
-      <a href="https://postessia.in"><img src="https://img.shields.io/badge/Try%20Postessia%20%E2%86%92-EC4899?style=for-the-badge" alt="Try Postessia"></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <h3>⚡ Apex Nexus</h3>
-      <sub>B2B acquisition infrastructure for growing teams.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live">
-      <img src="https://img.shields.io/badge/B2B-growth-A855F7?style=flat-square" alt="B2B">
-      <br/><br/>
-      <a href="https://apexnexuss.com"><img src="https://img.shields.io/badge/Visit%20site%20%E2%86%92-A855F7?style=for-the-badge" alt="Visit Apex Nexus"></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <h3>🎯 Adibitz</h3>
-      <sub>My freelance portfolio.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live">
-      <img src="https://img.shields.io/badge/portfolio-freelance-38BDF8?style=flat-square" alt="Portfolio">
-      <br/><br/>
-      <a href="https://adibitz.com"><img src="https://img.shields.io/badge/See%20my%20work%20%E2%86%92-38BDF8?style=for-the-badge" alt="See my work"></a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-<br/>
+| Area | Tools |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Python, JavaScript, TypeScript, Rust" align="center" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,vue,tailwind&theme=dark" alt="React, Next.js, Astro, Svelte, Vue, Tailwind CSS" align="center" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI" align="center" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,prisma&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Firebase, Supabase, Prisma" align="center" /> |
+| **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" alt="AWS, Docker, Vercel, Netlify" align="center" /> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Git, GitHub, VS Code, Figma, Linux" align="center" /> |
+| **AI-assisted development** | Claude Code, Codex, Antigravity |
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:EC4899,100:A855F7&height=2" width="100%" alt="" />
+---
 
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32" height="32" alt="📊" /> GitHub Stats
-</h2>
+## GitHub Activity
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=EC4899&text_color=C9D1D9&ring_color=A855F7&border_radius=16&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&border_radius=16&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=38BDF8&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C084FC&dates=8B949E&hide_border=true&border_radius=16" alt="Streak stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=A855F7&point=38BDF8&area=true&area_color=A855F7&hide_border=true&radius=16" width="95%" alt="Contribution activity graph" />
-
-</div>
-
-<!--
-═══════════════ OPTIONAL: SNAKE ANIMATION ═══════════════
-1. Add the workflow file `snake.yml` to .github/workflows/ in your profile repo
-2. Run it once from the Actions tab
-3. Uncomment the block below
-
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-snake.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
   </picture>
-</div>
--->
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=6" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=6" />
+  </picture>
+</p>
 
-<br/>
+---
 
-<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:38BDF8&height=2" width="100%" alt="" />
+## Get in Touch
 
-<div align="center">
+Have a project in mind or just want to talk tech? I'm always open to a conversation.
 
-<h2>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="32" height="32" alt="💬" /> Let's Build Something
-</h2>
-
-Got an idea, a project, or just want to talk tech?<br/>
-**My inbox is always open.**
-
-<br/>
-
-<a href="https://adibitz.com"><img src="https://img.shields.io/badge/Hire%20me-adibitz.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hire me"></a>
-<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-
-<br/><br/>
+<p>
+  <a href="https://adibitz.com"><img src="https://img.shields.io/badge/Portfolio-adibitz.com-1F2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/X-@theadibitz-1F2937?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 <sub><i>"Code is poetry written for machines, but read by humans."</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:EC4899,100:38BDF8&height=120&section=footer&reversal=true" width="100%" alt="" />
-
-</div>
