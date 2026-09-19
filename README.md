@@ -55,32 +55,13 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=6" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=6" />
-  </picture>
-</p>
-
----
-
 ## Get in Touch
 
 Have a project in mind or just want to talk tech? I'm always open to a conversation.
 
-<p>
-  <a href="https://adibitz.com"><img src="https://img.shields.io/badge/Portfolio-adibitz.com-1F2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/X-@theadibitz-1F2937?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-</p>
+<a href="https://adibitz.com"><img src="https://img.shields.io/badge/adibitz.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://postessia.in"><img src="https://img.shields.io/badge/Postessia-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Postessia"></a>
+<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/@theadibitz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
 <sub><i>"Code is poetry written for machines, but read by humans."</i></sub>
