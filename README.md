@@ -42,19 +42,8 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Python, JavaScript, TypeScript, Rust">
 <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,vue,tailwind&theme=dark" alt="React, Next.js, Astro, Svelte, Vue, Tailwind CSS">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI">
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" height="48" alt="Hono">
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,prisma&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Firebase, Supabase, Prisma">
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" alt="AWS, Docker, Vercel, Netlify">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" alt="Render">
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Git, GitHub, VS Code, Figma, Linux">
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" alt="Claude Code">
 
