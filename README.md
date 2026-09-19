@@ -56,7 +56,6 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
   <tr>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.gif" width="56" height="56" alt="📝"><br/>
       <h3>Postessia</h3>
       <sub>AI-powered LinkedIn posts that sound like you, not like a robot.</sub>
       <br/><br/>
@@ -68,7 +67,6 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="56" height="56" alt="⚡"><br/>
       <h3>Apex Nexus</h3>
       <sub>B2B acquisition infrastructure for growing teams.</sub>
       <br/><br/>
@@ -80,9 +78,8 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="56" height="56" alt="🌐"><br/>
-      <h3>adibitz.com</h3>
-      <sub>My freelance portfolio, with 14+ shipped projects.</sub>
+      <h3>Adibitz</h3>
+      <sub>My freelance portfolio.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live">
       <img src="https://img.shields.io/badge/portfolio-freelance-38BDF8?style=flat-square" alt="Portfolio">
@@ -92,11 +89,7 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
     </td>
   </tr>
 </table>
-
 <br/>
-
-
-
 <br/>
 
 <div align="center">
