@@ -1,33 +1,38 @@
-<!-- Replace every GITHUB_USERNAME below with your actual GitHub username -->
+<div align="center">
 
-<h1 align="center">Aditya</h1>
 
-<p align="center">
-  <b>Full Stack Developer</b><br/>
-  Building fast, scalable web products for startups and growing brands.
-</p>
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30" alt="👋"> Hey, I'm Aditya
 
-<p align="center">
-  <a href="https://adibitz.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://postessia.in">Postessia</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/theadibitz/">X</a>
-</p>
+### Full Stack Developer
+<br/>
 
----
+<a href="https://adibitz.com"><img src="https://img.shields.io/badge/adibitz.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://postessia.in"><img src="https://img.shields.io/badge/Postessia-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Postessia"></a>
+<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/@theadibitz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
-## About
+</div>
 
-I turn ideas into fast, scalable products people actually enjoy using. For 6+ years I've built websites and web apps for startups and growing brands, covering everything from pixel-perfect interfaces to APIs, databases and cloud infrastructure.
+<br/>
 
-Right now I'm co-building [Postessia](https://postessia.in), an AI tool that writes LinkedIn posts in your own voice, and going deep on system design so that whatever I ship next is ready to grow from day one.
+## About me
 
-| | |
-|:--|:--|
-| **Currently building** | Postessia, an AI writing tool for LinkedIn |
-| **Currently learning** | Distributed systems, scaling and system design |
-| **Available for** | Freelance work and collaborations |
-| **Outside of work** | I ship faster with coffee and music |
+
+I turn ideas into **fast, scalable products people actually enjoy using**. For 6+ years I've built websites and web apps for startups and growing brands, from pixel-perfect interfaces down to APIs, databases and cloud setup.
+
+Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that writes LinkedIn posts in your own voice, and going deep on **system design** so the next thing I ship is ready to grow from day one.
+
+<br/>
+
+🔭 &nbsp;Building **Postessia**<br/>
+🧠 &nbsp;Learning **distributed systems & scaling**<br/>
+🤝 &nbsp;Open to **freelance work & collaborations**<br/>
+⚡ &nbsp;Fun fact: **I ship faster with coffee and music**
+
+
+<br/>
+
+<br/>
 
 ---
 
