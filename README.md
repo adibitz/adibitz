@@ -1,167 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,45:1e1b4b,100:0e7490&text=ADITYA%20KUMAR&fontColor=e6edf3&fontSize=54&fontAlignY=36&desc=%3E%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling" width="100%" alt="Aditya Kumar, Full Stack Developer">
+  <!-- Animated Waving Header with Neon Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient:3b82f6,8b5cf6,ec4899&text=ADITYA%20KUMAR&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=20&animation=twinkling" width="100%" alt="Aditya Kumar Header">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+full+stack+developer;%24+building+%E2%86%92+Postessia;%24+learning+%E2%86%92+system+design;%24+stack+%E2%86%92+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+AWS" alt="Full stack developer, building Postessia, learning system design, TypeScript, Next.js, Node.js, PostgreSQL, AWS">
+  <!-- Smooth Animated Typing Subtitle -->
+  <a href="https://postessia.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2800&pause=1000&color=F43F5E&center=true&vCenter=true&width=750&height=45&lines=✨+Building+Postessia+%E2%80%94+AI-powered+LinkedIn+content;🚀+4%2B+Years+shipping+fast%2C+scalable+web+products;🧠+Deep+diving+into+System+Design+%26+Architecture;⚡+Stack%3A+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing Subtitle">
+  </a>
 
-<br/>
+  <br/>
 
-<a href="https://adibitz.com"><img src="https://img.shields.io/badge/Portfolio-adibitz.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://postessia.com"><img src="https://img.shields.io/badge/Building-Postessia-db2777?style=for-the-badge" alt="Building Postessia"></a>
-<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/X-Follow-0e7490?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <!-- Quick Action Link Badges -->
+  <a href="https://adibitz.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-adibitz.com-8b5cf6?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://postessia.com">
+    <img src="https://img.shields.io/badge/🚀_Building-Postessia-ec4899?style=for-the-badge" alt="Postessia">
+  </a>
+  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/theadibitz/">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
 
 </div>
 
-## ~/about
+<br/>
 
-I'm **Aditya**, a full stack developer who turns ideas into fast, scalable products people actually use. For 4+ years I've shipped websites and web apps for startups and growing brands, covering everything from pixel-perfect interfaces to APIs, databases and cloud infrastructure.
+---
 
-Right now I'm building **[Postessia](https://postessia.com)**, an AI tool that writes LinkedIn posts in your own voice, and going deep on **system design** so the next thing I ship is ready to scale from day one. If you're working on something interesting, I'd love to hear about it.
+## 🌟 About Me
 
-```text
-aditya@dev:~$ neofetch
+Hey there! I’m **Aditya**, a passionate **Full Stack Developer** dedicated to building fast, high-performance, and visually stunning web applications that deliver real impact. Over the past **4+ years**, I've partnered with startups and growing brands to design and launch products end-to-end—from intuitive user interfaces to resilient backend APIs and cloud infrastructure.
 
-  aditya@dev
-  ──────────────────────────────────────────
-  Role        Full Stack Developer
-  Uptime      4+ years shipping to production
-  Building    Postessia (AI LinkedIn posts in your voice)
-  Learning    System Design
-  Stack       TypeScript · Next.js · Node.js · PostgreSQL · AWS
-  Web         adibitz.com
-  Status      ● open to collaborations
-```
+* 💡 **Currently Building:** **[Postessia](https://postessia.com)** — An AI engine that helps creators write LinkedIn posts tailored to their authentic voice.
+* 🎓 **Focus Area:** Advanced **System Design & Cloud Architecture** to ensure apps scale effortlessly.
+* 🤝 **Collaboration:** Always open to exciting freelance projects, co-founding opportunities, or tech discussions.
 
-## ~/stack
+<br/>
+
+---
+
+## 🚀 Featured Work
 
 <table width="100%">
   <tr>
-    <th colspan="6" align="left"><code>// languages</code></th>
-  </tr>
-  <tr>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"><br><b>Python</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"><br><b>JavaScript</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"><br><b>TypeScript</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/rust/CE412B" width="40" height="40" alt="Rust"><br><b>Rust</b></td>
-    <td width="16%"></td>
-    <td width="16%"></td>
-  </tr>
-  <tr>
-    <th colspan="6" align="left"><code>// frontend</code></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"><br><b>React</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/8b949e" width="40" height="40" alt="Next.js"><br><b>Next.js</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="40" height="40" alt="Astro"><br><b>Astro</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/svelte/FF3E00" width="40" height="40" alt="SvelteKit"><br><b>SvelteKit</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue"><br><b>Vue</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS"><br><b>Tailwind CSS</b></td>
-  </tr>
-  <tr>
-    <th colspan="6" align="left"><code>// backend</code></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js"><br><b>Node.js</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/express/8b949e" width="40" height="40" alt="Express"><br><b>Express</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/hono/E36002" width="40" height="40" alt="Hono"><br><b>Hono</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"><br><b>FastAPI</b></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th colspan="6" align="left"><code>// databases</code></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"><br><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"><br><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase"><br><b>Firebase</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase"><br><b>Supabase</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/prisma/5A67D8" width="40" height="40" alt="Prisma"><br><b>Prisma</b></td>
-  </tr>
-  <tr>
-    <th colspan="6" align="left"><code>// cloud &amp; deploy</code></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"><br><b>AWS</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"><br><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vercel/8b949e" width="40" height="40" alt="Vercel"><br><b>Vercel</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"><br><b>Netlify</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render"><br><b>Render</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th colspan="6" align="left"><code>// tools</code></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"><br><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"><br><b>VS Code</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma"><br><b>Figma</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"><br><b>Linux</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code"><br><b>Claude Code</b></td>
-    <td></td>
-  </tr>
-</table>
-
-## ~/projects
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      <br/>
       <h3>📝 Postessia</h3>
-      <p>AI-powered LinkedIn posts that sound like you.</p>
-      <img src="https://img.shields.io/badge/status-building-db2777?style=flat-square" alt="Building">
-      <img src="https://img.shields.io/badge/waitlist-open-7c3aed?style=flat-square" alt="Waitlist open">
-      <br><br>
-      <a href="https://postessia.com"><code>→ postessia.com</code></a>
+      <p>AI-powered LinkedIn content creator that captures your authentic personal voice.</p>
+      <img src="https://img.shields.io/badge/Status-Building-ec4899?style=flat-square" alt="Building">
+      <img src="https://img.shields.io/badge/Waitlist-Open-8b5cf6?style=flat-square" alt="Waitlist">
+      <br/><br/>
+      <a href="https://postessia.com"><b>Explore Postessia →</b></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      <br/>
       <h3>⚡ Apex Nexus</h3>
-      <p>B2B acquisition infrastructure.</p>
-      <img src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" alt="Live">
-      <br><br>
-      <a href="https://apexnexuss.com"><code>→ apexnexuss.com</code></a>
+      <p>High-performance B2B client acquisition infrastructure designed for scale.</p>
+      <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" alt="Live">
+      <br/><br/>
+      <a href="https://apexnexuss.com"><b>Visit Apex Nexus →</b></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      <br/>
       <h3>🌐 adibitz.com</h3>
-      <p>Freelance web development portfolio.</p>
-      <img src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" alt="Live">
-      <br><br>
-      <a href="https://adibitz.com"><code>→ adibitz.com</code></a>
+      <p>My personal portfolio showcasing freelance client work and case studies.</p>
+      <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" alt="Live">
+      <br/><br/>
+      <a href="https://adibitz.com"><b>View Portfolio →</b></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
-## ~/journey
+<br/>
 
-```bash
-$ git log --oneline --graph --decorate
+---
 
-* a1f4c9e (HEAD -> main) feat: building Postessia, AI LinkedIn posts in your own voice
-* 7b2d0e3 learn: system design, building things that scale from day one
-* 3c9e5a1 launch: adibitz.com
-* e84b7f2 ship: 14+ projects for startups and growing brands
-* 09d1c6a init: started freelancing
-```
+## 🛠️ Tech Ecosystem
 
-## ~/connect
+<table width="100%">
+  <tr>
+    <th align="left" colspan="6"><b>Languages & Core</b></th>
+  </tr>
+  <tr>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"><br><b>TypeScript</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"><br><b>JavaScript</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"><br><b>Python</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/rust/CE412B" width="36" height="36" alt="Rust"><br><b>Rust</b></td>
+    <td width="16%"></td>
+    <td width="16%"></td>
+  </tr>
+  <tr>
+    <th align="left" colspan="6"><b>Frontend Frameworks</b></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"><br><b>React</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="36" height="36" alt="Next.js"><br><b>Next.js</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS"><br><b>Tailwind</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="36" height="36" alt="Astro"><br><b>Astro</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/svelte/FF3E00" width="36" height="36" alt="SvelteKit"><br><b>SvelteKit</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" height="36" alt="Vue"><br><b>Vue</b></td>
+  </tr>
+  <tr>
+    <th align="left" colspan="6"><b>Backend & Databases</b></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36" alt="Node.js"><br><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL"><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB"><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36" height="36" alt="Supabase"><br><b>Supabase</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI"><br><b>FastAPI</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/prisma/5A67D8" width="36" height="36" alt="Prisma"><br><b>Prisma</b></td>
+  </tr>
+  <tr>
+    <th align="left" colspan="6"><b>Cloud, DevOps & Tools</b></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS"><br><b>AWS</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"><br><b>Docker</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="36" height="36" alt="Vercel"><br><b>Vercel</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma"><br><b>Figma</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/claude/D97757" width="36" height="36" alt="Claude Code"><br><b>Claude Code</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"><br><b>Git</b></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 Activity & Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaditya-kumar-anand&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=ec4899" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-kumar-anand&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899" height="170" alt="GitHub Streak" />
+</div>
 
-```bash
-$ ping aditya
-PONG: got an idea, a project or just want to talk tech? Always up for a good conversation.
-```
+<br/>
 
-<a href="https://adibitz.com"><img src="https://img.shields.io/badge/Portfolio-adibitz.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/X-Follow-0e7490?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+---
 
-<br/><br/>
+## 🗺️ The Story So Far
 
-*"Code is poetry written for machines, but read by humans."*
+* 🎨 **Now:** Building **Postessia** and engineering modern AI workflows.
+* 🏗️ **Learning:** Mastering system design patterns, distributed databases, and high-concurrency microservices.
+* 🚀 **Milestone:** Launched personal brand & portfolio at **[adibitz.com](https://adibitz.com)**.
+* 💼 **Experience:** Shipped 14+ full-stack projects for startups, SMBs, and enterprise clients.
+* ⚡ **Origins:** Started the freelance engineering journey with a passion for web technologies.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,45:1e1b4b,100:0e7490&section=footer" width="100%" alt="">
+<br/>
 
+---
+
+## 💬 Let's Connect
+
+Have an exciting project idea, looking to collaborate, or simply want to chat about web dev and AI? I’d love to connect!
+
+<div align="center">
+  <br/>
+
+  <a href="https://adibitz.com">
+    <img src="https://img.shields.io/badge/Portfolio-adibitz.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/aaditya-kumar-anand/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/theadibitz/">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <br/><br/>
+
+  <sub><i>"Code is poetry written for machines, but read by humans."</i></sub>
+
+  <br/><br/>
+
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient:3b82f6,8b5cf6,ec4899&section=footer" width="100%" alt="Footer">
 </div>
