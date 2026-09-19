@@ -46,8 +46,8 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" alt="AWS, Docker, Vercel, Netlify">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Git, GitHub, VS Code, Figma, Linux">
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" alt="Claude Code">
-
-
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" alt="Antigravity">
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="Codex">
 <br/>
 
 ## Featured work
