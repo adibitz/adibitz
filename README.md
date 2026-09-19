@@ -36,7 +36,7 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 
 <br/>
 
-## Toolbox
+## Tech stacks
 
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Python, JavaScript, TypeScript, Rust">
