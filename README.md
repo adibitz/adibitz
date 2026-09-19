@@ -1,6 +1,3 @@
-<div align="center">
-
-
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30" alt="👋"> Hey, I'm Aditya
 
 ### Full Stack Developer
@@ -10,8 +7,6 @@
 <a href="https://postessia.in"><img src="https://img.shields.io/badge/Postessia-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Postessia"></a>
 <a href="https://www.linkedin.com/in/aaditya-kumar-anand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/theadibitz/"><img src="https://img.shields.io/badge/@theadibitz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-
-</div>
 
 <br/>
 
