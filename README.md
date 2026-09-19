@@ -29,11 +29,6 @@ Right now I'm co-building **[Postessia](https://postessia.in)**, an AI tool that
 🤝 &nbsp;Open to **freelance work & collaborations**<br/>
 ⚡ &nbsp;Fun fact: **I ship faster with coffee and music**
 
-
-<br/>
-
-<br/>
-
 ---
 
 ## Selected Work
